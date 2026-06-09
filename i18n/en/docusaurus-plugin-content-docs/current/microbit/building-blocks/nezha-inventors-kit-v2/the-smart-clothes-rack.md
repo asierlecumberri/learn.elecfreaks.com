@@ -182,6 +182,6 @@ The drying rack automatically contracts when rain is detected by the soil moistu
 
 ![](https://wiki-media-ef.oss-cn-hongkong.aliyuncs.com/i18n/en/docusaurus-plugin-content-docs/current/microbit/building-blocks/nezha-inventors-kit-v2/images/nezha-inventors-kit-v2-case-32.gif)
 
-### Reflection
+### Reflection.
 
 >Share in groups so that students in each group can share their production process and insights, summarise the problems and solutions they encountered, and evaluate their strengths and weaknesses.
